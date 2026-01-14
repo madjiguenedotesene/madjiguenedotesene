@@ -4,21 +4,21 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150">
 </p>
 
-**Ingénieure Data Scientist** récemment diplômée (Master Data Science & Cybersécurité), je me spécialise dans la construction de systèmes d'IA de bout en bout : de la conception du modèle à son déploiement **sécurisé** et **scalable** en production. Fort d'une expérience significative en **alternance** chez Eurosmart, je maîtrise les pratiques **MLOps** et **DevSecOps**.
+**Ingénieure Data Scientist** récemment diplômée en Master Data Science & Cybersécurité, je me spécialise dans la construction de systèmes d'IA de bout en bout : de la conception du modèle à son déploiement **sécurisé** et **scalable** en production. Fort d'une expérience significative en **alternance** chez Eurosmart, je maîtrise les pratiques **MLOps** et **DevSecOps**.
 
 
 ## 🤔 À propos de moi
 
-* 🎓 **Diplômée d'un Master** en Data Science & Cybersécurité (Université Paris 8, obtenu en Octobre 2025).
+* 🎓 **Diplômée d'un Master** en Data Science & Cybersécurité Université Paris 8, obtenu en 2026.
 * 💻 Passionnée par la synergie entre le développement logiciel, l'analyse de données et la cybersécurité.
 * 🚀 Je crois fermement que les meilleurs systèmes d'IA sont ceux qui sont non seulement performants mais aussi robustes, maintenables et sécurisés dès la conception.
-* 💡 Je recherche activement un **premier emploi (CDI)** en tant qu'Ingénieure Data Scientist, MLOps Engineer ou Cloud Security Engineer pour mettre en pratique mes compétences et contribuer à des projets innovants.
+* 💡 Je recherche activement une alternance ou un **premier emploi (CDI)** en tant qu'Ingénieure Data Scientist, MLOps Engineer ou Cloud Security Engineer pour mettre en pratique mes compétences et contribuer à des projets innovants.
 
 
 
 ## 🛠️ Compétences Techniques
 
-Voici un aperçu de mon "arsenal" technique :
+Voici un aperçu de mon arsenal technique :
 
 | 📊 Data Science & MLOps                     | 🚀 DevOps & Backend                         | 🛡️ Cybersecurity & DevSecOps                |
 | :----------------------------------------- | :------------------------------------------ | :----------------------------------------- |
@@ -35,7 +35,7 @@ Voici un aperçu de mon "arsenal" technique :
 
 ## ✨ Mes Projets Épinglés
 
-Voici quelques projets qui illustrent ma démarche "Full-Stack" :
+Voici quelques projets qui illustrent ma démarche Full-Stack que vous pourriez consulter dans le depot projet_academic :
 
 1.  **🌟 Projet "Licorne" : Honeypot Web avec Détection d'Attaques par IA**
     * *Description :* API FastAPI vulnérable (Honeypot) loguant les requêtes suspectes dans PostgreSQL, couplée à un modèle ML (Isolation Forest) pour la détection d'anomalies (Scans, Injections...).
@@ -59,6 +59,6 @@ Voici quelques projets qui illustrent ma démarche "Full-Stack" :
 
 * **LinkedIn :** [linkedin.com/in/madjiguene-dote-sene](https://www.linkedin.com/in/madjiguene-dote-sene/)
 * **Email :** [madjiguenesene20@gmail.com](mailto:madjiguenesene20@gmail.com)
-* **Portfolio Data (si applicable) :** [analyse.eurosmart.fr](https://analyse.eurosmart.fr)
+
 
 N'hésitez pas à me contacter si mon profil vous intéresse ou si vous souhaitez discuter de projets passionnants !
